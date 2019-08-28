@@ -11,5 +11,3 @@ The application will add up your total, and tell you how many items you have pur
 If you order more products than are available, you will be told that the order cannot be fulfilled and returned
 back to the inventory table. 
 
-Demo video link: 
-https://drive.google.com/file/d/17X732Lq0uqZMoVjHLac2Z0r8kWMiz1Yn/view
