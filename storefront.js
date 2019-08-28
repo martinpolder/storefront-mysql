@@ -8,7 +8,7 @@ var connection = mysql.createConnection({
 
     user: "root",
 
-    password: "dak0!-MMP",
+
     database: "storefront"
 });
 
